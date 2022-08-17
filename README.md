@@ -16,3 +16,4 @@ Sehingga untuk generasi muda bisa tahu siapa saja tokoh yang terlibat saat Prokl
 | **Referensi** | : | [newsDetik.com](https://news.detik.com/berita/d-5294457/8-tokoh-proklamasi-dalam-kemerdekaan-indonesia-dan-perannya) |
 
 *Note: Nama Author harus di cantum di salah satu di file project, untuk mendapatkan userId discord bisa ke #main-cmd dan ketik `/userinfo <NamaDiscordAnda>`
+*GitHub Page : https://firmanwijaya.github.io/website-firmanwijaya/
